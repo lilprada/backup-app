@@ -13,9 +13,9 @@
     "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-spotify-api": "^3.0.0",
-    "react-spotify-auth": "^0.4.3"
+    "react-spotify-auth": "^0.4.7"
   },
   "scripts": {
     "start": "react-scripts start",
